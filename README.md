@@ -12,5 +12,5 @@ An explanation of all the parts of a bitcoin node/client can be found here:
 
 https://bitcointalk.org/index.php?topic=41718.0
 
-![Work in Progress](/work-in-progress.jpg)
+![Work in Progress](/work-in-progress.jpgi =250x)
 
